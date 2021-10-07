@@ -1,5 +1,5 @@
 TEMPLATE = app
-CONFIG += console c++17
+CONFIG += console c++11
 CONFIG -= app_bundle
 CONFIG -= qt
 
@@ -10,6 +10,9 @@ SOURCES += \
         RegexValidator.cpp \
         StringValidator.cpp \
         main.cpp
+
+DISTFILES += \
+    chain-of-responsability.pro.user
 
 HEADERS += \
     BaseValidator.h \
