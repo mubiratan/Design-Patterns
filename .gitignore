@@ -73,3 +73,5 @@ Thumbs.db
 
 # Qt Creator
 *.pro
+
+build-*.* 
