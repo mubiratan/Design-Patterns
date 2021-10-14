@@ -1,2 +1,2 @@
 # Design-Patterns
-Implementing the Chain of Responsibility pattern in C++.
+Examples of design patterns in c++
