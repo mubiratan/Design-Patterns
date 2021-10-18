@@ -73,6 +73,7 @@ Thumbs.db
 
 # Qt Creator
 *.pro
+*.pro.user
 
 build-*.* 
 *.qmake.stash
